@@ -4,7 +4,6 @@ In a room full of developpers trying to work, it's best to communicate by writin
 
 This way, important information won't be lost and nobody will be bothered by the noise 😉
 
-
 Slack will be one of your primary tools during the training. And you will soon learn to use it, copy pasting emojis everywhere, telling jokes that nobody except you will understand or sharing [giphy cats](https://giphy.com/search/cats).
 
 But it's always better to keep things organised 😁.
@@ -22,8 +21,6 @@ Even our courses are written in english!
 When you want to answer to a publication, please use threads, this way we won't be lost between multiple interlaced discussions:
 
 ![slack thread button](./assets/images/thread-btn.png)
-
-![slack thread example](./assets/images/thread-example.png)
 
 ## Use the right channel
 

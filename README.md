@@ -17,8 +17,6 @@ The morning course will **start at 9am**. If you want to take a ☕, better be t
 
 If you are not in the office, connect to the online class room few minutes before 9am if possible. 
 
-Being late happens, for multiple reasons. If you know that you will be, _please notify the teachers on Slack_, and if you don't know in advance, _please notify the teachers on Slack_ 😁.
-
 ### During the day
 
 Except for the lunch time, teachers will be there.
