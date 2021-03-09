@@ -22,7 +22,7 @@ If you are not in the office, connect to the online class room few minutes befor
 Except for the lunch time, teachers will be there.
 
 After the morning courses you will have a lot of work to do! Sometimes there will be several exercises, to help you understand and practice with concepts.
-You will also have projects to create. Somme will take you one or two days, some other will be scheduled on a complete week.
+You will also have projects to create. Some will take you one or two days, some other will be scheduled on a complete week.
 
 Learning could be hard as you'll maybe see. It's important for you to take breaks. Let your brain cool 🥶!
 
